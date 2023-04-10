@@ -38,7 +38,7 @@ export const useCollection = (collection, _query, _orderBy) => {
 
     // unsubscribe on unmount
     return () => unsubscribe();
-  }, [collection, query]);
+  }, [collection, orderBy, query]);
 
   return { documents, error };
 };
