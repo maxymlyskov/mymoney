@@ -3,12 +3,12 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAsDnqinstibe69dGyqL4KDkvK82U5OwP0",
-  authDomain: "mymoneywallet-8b50b.firebaseapp.com",
-  projectId: "mymoneywallet-8b50b",
-  storageBucket: "mymoneywallet-8b50b.appspot.com",
-  messagingSenderId: "956802613729",
-  appId: "1:956802613729:web:cae061742ce7e831bb12a0",
+  apiKey: "AIzaSyCF1Gs22jYNTjmkhg1QYFWOFJ1xMX8rHBU",
+  authDomain: "mymoney-6c56d.firebaseapp.com",
+  projectId: "mymoney-6c56d",
+  storageBucket: "mymoney-6c56d.appspot.com",
+  messagingSenderId: "965622722607",
+  appId: "1:965622722607:web:a2b9439beea3baa364d6da",
 };
 
 // init firebase
