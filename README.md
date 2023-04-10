@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# My money project using firebase firestore and auth
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website: https://mymoney-6c56d.web.app
 
 ## Available Scripts
 
